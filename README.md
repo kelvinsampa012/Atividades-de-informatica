@@ -1,7 +1,11 @@
 # SEGUIR OS LINKS.
 
-## Atividade_Apresentação, grupo Canva
+## Atividade_Apresentação, grupo Canva 
+![image](https://github.com/user-attachments/assets/8d646e47-9c55-4c34-839c-2791966090e2)
+
 https://www.canva.com/design/DAGfsZElSZU/NhNi4byranUf3kdhLzlwTg/view?utm_content=DAGfsZElSZU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d3dbf0781
+
+
 
 ## Atividade_Gastos Excel
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_br/Documents/Planilha%20de%20gastos.xlsx?d=w118e1e6b863c4593a602a35c8f786602&csf=1&web=1&e=qZAAMq
