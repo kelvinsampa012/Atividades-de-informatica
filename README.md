@@ -1,11 +1,9 @@
-# SEGUIR OS LINKS.
+# LINKS.
 
 ## Atividade_Apresentação, grupo Canva 
 ![image](https://github.com/user-attachments/assets/8d646e47-9c55-4c34-839c-2791966090e2)
 
 https://www.canva.com/design/DAGfsZElSZU/NhNi4byranUf3kdhLzlwTg/view?utm_content=DAGfsZElSZU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d3dbf0781
-
-
 
 ## Atividade_Gastos Excel
 ![image](https://github.com/user-attachments/assets/7f1a0ef9-1dc1-4347-9b72-6f6780d6bce8)
@@ -25,7 +23,7 @@ https://app.powerbi.com/links/MKkkuAZuFS?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ## Atividade_Dados de ocorrências na aviação, dupla Excel
 ![image](https://github.com/user-attachments/assets/c36e3a91-7e49-4762-b4b3-3db771f778fd)
 
-https://1drv.ms/x/c/8608dfd65c504b48/EfbijjlyGVlOlLm6LKmOsAIBRqPbICf7KJndqVKvMJZgAQ?e=AFHp8g
+https://1drv.ms/x/c/8608dfd65c504b48/EaQZGUPfq0BNnka20M1YtkkBq4CanOzXaOcx5b3cBhzcMQ?e=KvLtCG
 
 ## Atividade_Dados de ocorrências na aviação, dupla PowerBi
 ![image](https://github.com/user-attachments/assets/d24e4df0-6dc4-447f-8e19-03fc003cf6df)
