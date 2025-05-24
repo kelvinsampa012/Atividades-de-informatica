@@ -29,3 +29,28 @@ https://1drv.ms/x/c/8608dfd65c504b48/EaQZGUPfq0BNnka20M1YtkkBq4CanOzXaOcx5b3cBhz
 ![image](https://github.com/user-attachments/assets/d24e4df0-6dc4-447f-8e19-03fc003cf6df)
 
 https://app.powerbi.com/links/rHbJtww6Ve?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
+## Atividade_Projeto 1: Venda de Sorvete
+![image](https://github.com/user-attachments/assets/ab6e70e5-bdae-499d-bf74-ad87f8d73571)
+
+## Atividade_Projeto 2: Consumo de cerveja
+![image](https://github.com/user-attachments/assets/07ee5339-a4af-4253-b4bc-e276b58015cc)
+
+Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+Qual modelo você usaria? Por quê?
+ 
+## Resposta: Ambos os modelos são eficazes, mas servem a propósitos diferentes.
+## Colab, porque ficou mais organizado e mais fácil a leitura,
+
+
+## Atividade_Projeto 3: Venda de casas
+![image](https://github.com/user-attachments/assets/0f0890ac-07df-4aea-a536-fd2cdfc655b0)
+
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_br/Documents/HousePrices_Kelvin.xlsx?d=w2c8360c53b9842b89decc499a668fe7e&csf=1&web=1&e=pX8AAw
+
+Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+Qual modelo você usaria? Por quê?
+ 
+## Resposta: Ambos os modelos são eficazes, mas servem a propósitos diferentes.
+## Colab, porque ficou mais organizado e mais fácil a leitura,
+
