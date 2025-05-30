@@ -54,3 +54,9 @@ Qual modelo você usaria? Por quê?
 ## Resposta: Ambos os modelos são eficazes, mas servem a propósitos diferentes.
 ## Colab, porque ficou mais organizado e mais fácil a leitura,
 
+## Atividade_1 Gráficos: Panelas, Produtos e Sorvetes
+![image](https://github.com/user-attachments/assets/cedb1671-5f01-4b25-9e7d-7598d8eaf811)
+
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos_Kelvin.xlsx?d=wcb0ca6b7bf184ebd929ed99734834ca2&csf=1&web=1&e=LcMlSL
+
+
