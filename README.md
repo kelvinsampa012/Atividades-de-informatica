@@ -59,4 +59,10 @@ Qual modelo você usaria? Por quê?
 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos_Kelvin.xlsx?d=wcb0ca6b7bf184ebd929ed99734834ca2&csf=1&web=1&e=LcMlSL
 
+## Atividade_2 Gráficos: Peças e Sandálias
+![image](https://github.com/user-attachments/assets/74b025ce-3e90-4c39-95f7-29a780088a28)
+
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador_Kelvin.xlsx?d=w42e73c91f3ee49b88e0d4c1a2759058b&csf=1&web=1&e=nS4Aj0
+
+
 
