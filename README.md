@@ -39,7 +39,7 @@ https://app.powerbi.com/links/rHbJtww6Ve?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
 Qual modelo você usaria? Por quê?
  
-## Resposta: Ambos os modelos são eficazes, mas servem a propósitos diferentes.
+## Resposta: Não, houve diferença entre os resultados, mas estão quase indenticos.
 ## Colab, porque ficou mais organizado e mais fácil a leitura,
 
 
