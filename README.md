@@ -66,6 +66,13 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_
 
  ## Resposta: O melhor custo é fabricar as peças.
 
+ ## Atividade_Power Apps: Frete
+ 
+https://github.com/user-attachments/assets/66c08431-0ac4-4d34-9fe3-ff5d5305f887
+
+
+ 
+
 
 
 
