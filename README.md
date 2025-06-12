@@ -32,6 +32,8 @@ https://app.powerbi.com/links/rHbJtww6Ve?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## Atividade_Projeto 1: Venda de Sorvete
 ![image](https://github.com/user-attachments/assets/edf93836-f689-4786-a2a4-4a8d4928d20a)
+![image](https://github.com/user-attachments/assets/34e5db48-aba7-4032-9586-a611c5d5e809)
+
 
 
 ## Atividade_Projeto 2: Consumo de cerveja
