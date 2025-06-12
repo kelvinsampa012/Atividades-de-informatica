@@ -34,7 +34,11 @@ https://app.powerbi.com/links/rHbJtww6Ve?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ![image](https://github.com/user-attachments/assets/edf93836-f689-4786-a2a4-4a8d4928d20a)
 ![image](https://github.com/user-attachments/assets/34e5db48-aba7-4032-9586-a611c5d5e809)
 
+Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+Qual modelo você usaria? Por quê?
 
+## Resposta: Sim, nãp houve diferença entre os resultados.
+## Colab, porque explora melhor os dados, e tem melhor visualização dos deles.
 
 ## Atividade_Projeto 2: Consumo de cerveja
 ![image](https://github.com/user-attachments/assets/07ee5339-a4af-4253-b4bc-e276b58015cc)
@@ -43,7 +47,7 @@ Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas e
 Qual modelo você usaria? Por quê?
  
 ## Resposta: Não, houve diferença entre os resultados, mas estão quase indenticos, acredito que por usar I.A o colab explora mais os dados.
-## Colab, porque explora mais os dados, e tem melhor visualização dos dados.
+## Colab, porque explora melhor os dados, e tem melhor visualização dos deles.
 
 ## Atividade_Projeto 3: Venda de casas
 ![image](https://github.com/user-attachments/assets/0f0890ac-07df-4aea-a536-fd2cdfc655b0)
@@ -55,7 +59,7 @@ Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas e
 Qual modelo você usaria? Por quê?
  
 ## Resposta: Não, houve diferença entre os resultados, mas estão quase indenticos, acredito que por usar I.A o colab explora mais os dados.
-## Colab, porque explora mais os dados, e tem melhor visualização dos dados.
+## Colab, porque explora melhor os dados, e tem melhor visualização dos deles.
 
 ## Atividade_1 Gráficos: Panelas, Produtos e Sorvetes
 ![image](https://github.com/user-attachments/assets/cedb1671-5f01-4b25-9e7d-7598d8eaf811)
