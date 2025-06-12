@@ -39,12 +39,14 @@ https://app.powerbi.com/links/rHbJtww6Ve?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
 Qual modelo você usaria? Por quê?
  
-## Resposta: Não, houve diferença entre os resultados, mas estão quase indenticos.
+## Resposta: Não, houve diferença entre os resultados, mas estão quase indenticos, devido um deles usar I.A, pode ocorrer de não ser extremamente exato os resultados.
 ## Colab, porque ficou mais organizado e mais fácil a leitura,
 
 
 ## Atividade_Projeto 3: Venda de casas
 ![image](https://github.com/user-attachments/assets/0f0890ac-07df-4aea-a536-fd2cdfc655b0)
+![image](https://github.com/user-attachments/assets/3df0a23b-c08f-47ca-873f-4f1f9308790a)
+
 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_br/Documents/HousePrices_Kelvin.xlsx?d=w2c8360c53b9842b89decc499a668fe7e&csf=1&web=1&e=pX8AAw
 
