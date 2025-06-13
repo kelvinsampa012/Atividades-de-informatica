@@ -77,6 +77,13 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/kelvin_santos8_fatec_sp_gov_
  
 https://github.com/user-attachments/assets/66c08431-0ac4-4d34-9fe3-ff5d5305f887
 
+## Atividade_Power Automate: Frete de gado
+
+![image](https://github.com/user-attachments/assets/e69c4f72-a363-435d-95cb-0bd3656df3d8)
+![image](https://github.com/user-attachments/assets/c9c5b2ba-b70d-4a04-8d9f-d1db830c8dee)
+
+
+
 
  
 
