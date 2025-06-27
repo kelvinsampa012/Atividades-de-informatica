@@ -85,6 +85,10 @@ https://github.com/user-attachments/assets/66c08431-0ac4-4d34-9fe3-ff5d5305f887
 
 ## Prova Ex.1 Power Bi
 
+
+https://github.com/user-attachments/assets/b2b33107-463c-4cd3-ad65-48b875cb9803
+
+
 https://github.com/user-attachments/assets/247bde75-3f34-4847-b17c-2d47fd6e0a59
 
 ## Prova Ex.2 Power App
