@@ -89,6 +89,8 @@ https://github.com/user-attachments/assets/b2b33107-463c-4cd3-ad65-48b875cb9803
 
 ## Prova Ex.2 Power App
 
+https://github.com/user-attachments/assets/b9426405-ba06-4043-8c39-f4172936e369
+
 
 
 
