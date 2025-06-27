@@ -83,6 +83,16 @@ https://github.com/user-attachments/assets/66c08431-0ac4-4d34-9fe3-ff5d5305f887
 ![image](https://github.com/user-attachments/assets/1dde42a3-8a5a-4964-add3-2113c84a7dab)
 ![image](https://github.com/user-attachments/assets/c9c5b2ba-b70d-4a04-8d9f-d1db830c8dee)
 
+## Prova Ex.1 Power Bi
+
+https://github.com/user-attachments/assets/247bde75-3f34-4847-b17c-2d47fd6e0a59
+
+## Prova Ex.2 Power App
+
+
+
+
+
 
 
 
